@@ -2,6 +2,7 @@
   "name": "coffeelisting",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://asunart.github.io/CoffeeListingApp/",
   "type": "module",
   "scripts": {
     "dev": "vite",
